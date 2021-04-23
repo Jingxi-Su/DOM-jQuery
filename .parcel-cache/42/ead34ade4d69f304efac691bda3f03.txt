@@ -1,0 +1,15 @@
+14
+50C:\Users\Lenovo\Desktop\demo\19.JQuery\src\main.js132636446701914682 0
+43C:\Users\Lenovo\Desktop\demo\19.JQuery\dist132636506849117839 1
+42C:\Users\Lenovo\Desktop\demo\19.JQuery\src132636496344545402 1
+65C:\Users\Lenovo\Desktop\demo\19.JQuery\dist\index.45bd7457.js.map132636496162853848 0
+52C:\Users\Lenovo\Desktop\demo\19.JQuery\src\jQuery.js132636518634789908 0
+61C:\Users\Lenovo\Desktop\demo\19.JQuery\dist\index.45bd7457.js132636496162804262 0
+53C:\Users\Lenovo\Desktop\demo\19.JQuery\src\index.html132636496302881048 0
+65C:\Users\Lenovo\Desktop\demo\19.JQuery\dist\index.bd78eeec.js.map132636506849107623 0
+61C:\Users\Lenovo\Desktop\demo\19.JQuery\dist\index.bd78eeec.js132636506849077700 0
+61C:\Users\Lenovo\Desktop\demo\19.JQuery\dist\index.f49f0c0c.js132636506849087671 0
+65C:\Users\Lenovo\Desktop\demo\19.JQuery\dist\index.f49f0c0c.js.map132636506849107623 0
+61C:\Users\Lenovo\Desktop\demo\19.JQuery\dist\index.fe130dca.js132635555001018692 0
+65C:\Users\Lenovo\Desktop\demo\19.JQuery\dist\index.fe130dca.js.map132635555001038279 0
+54C:\Users\Lenovo\Desktop\demo\19.JQuery\dist\index.html132636506849077700 0

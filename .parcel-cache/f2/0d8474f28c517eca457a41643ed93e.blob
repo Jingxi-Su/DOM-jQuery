@@ -1,0 +1,7 @@
+// const api = jQuery(`.test`)//不返回elements，返回api对象
+// api.addClass(`red`).addClass(`blue`).addClass(`green`)//链式操作，this就是.前面那个
+jQuery(`.test0`).addClass(`red`).addClass(`blue`).addClass(`green`)//简写
+
+jQuery(`.test1`).find(`.child`).addClass(`red`).addClass(`blue`).addClass(`green`).end().addClass(`yellow`)
+
+const x = jQuery(`.test1`).find(`.child`)
